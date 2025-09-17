@@ -1,6 +1,7 @@
-# Comparatif et choix – Hyperviseur
+# Choix de l’hyperviseur
 
-## 🔎 Solutions étudiées
+## Solutions étudiées
+
 | Critère          | VMware ESXi / vSphere | Proxmox VE | OpenStack (KVM) |
 |------------------|------------------------|------------|-----------------|
 | Performance      |                        |            |                 |
@@ -9,7 +10,7 @@
 | Interopérabilité |                        |            |                 |
 | Coût             |                        |            |                 |
 
-## 🏆 Choix retenu
-👉 **Nom de l’hyperviseur choisi**  
-**Justification :** explique pourquoi (simplicité, coût, fonctionnalités, etc.)
+## Choix retenu
+Nom de l’hyperviseur choisi : …  
 
+Justification : expliquer les raisons du choix (ex. simplicité, open source, compatibilité, coût).
